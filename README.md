@@ -1,8 +1,9 @@
 ## 👋 Hi, I’m Carlos Iván Martínez Gaona  
 
-### 🌟 ** Data Analyst | ML and Data Enthusiast | AI Learner & Practitioner **  
+### 🌟 **Data Analyst | ML and Data Enthusiast | AI Learner & Practitioner**  
 
 Welcome to my GitHub! I’m a Data Specialist with over 6 years of experience in transforming complex data into actionable insights. From optimizing configuration processes with Python to processing large datasets with Scala and SQL on Spark-based solutions, I thrive on solving challenges with innovative approaches. Recently, I’ve developed a keen interest in using Explainable AI (XAI) to make insights more interpretable and transparent, ensuring data-driven decisions are both impactful and understandable.
+
 ---
 
 ### 🚀 **A Little About Me**  
